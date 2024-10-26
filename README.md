@@ -1,16 +1,19 @@
-## Hi there 👋
+# .github
 
-<!--
-**AndreiArmega/AndreiArmega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm [Andrei Amrega]!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a SWE with a passion for technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to Reach Me
+
+Feel free to connect with me:
+
+- Email: [armega.andrei2@yahoo.com]
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/andrei-armega-144186285/)
+
+## 💬 Let's Collaborate!
+
+I'm always open to collaboration on exciting projects. If you have an idea or just want to chat, don't hesitate to reach out!
+---
+Thanks for visiting my profile! 🌟
